@@ -1,6 +1,6 @@
 import App from "./components/App.vue";
 import Vue from "vue";
-import "./style.css";
+import "./style.scss";
 
 new Vue({
   render(h) {
